@@ -29,7 +29,6 @@
   ],
   "dependencies": {
     "faker": "^4.1.0",
-    "gatsby": "2.31.0-next.0-dev-1610018045350",
     "gatsby-plugin-image": "*",
     "gatsby-plugin-sharp": "2.13.0-next.0-dev-1609845921133",
     "gatsby-source-filesystem": "^2",
@@ -39,6 +38,7 @@
     "progress": "*",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "rimraf": "*"
+    "rimraf": "*",
+    "gatsby": "^4.25.7"
   }
 }
